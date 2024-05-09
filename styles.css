@@ -1,0 +1,8 @@
+.wrapper {
+  background: linear-gradient(rgba(128, 0, 128, 0.702), pink);
+  min-height: 100vh;
+}
+
+.table {
+  --bs-table-bg: transparent;
+}
